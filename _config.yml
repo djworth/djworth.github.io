@@ -1,3 +1,25 @@
-name: Your New Jekyll Site
-markdown: redcarpet
-pygments: true
+# Dependencies
+markdown:         redcarpet
+pygments:         true
+
+# Permalinks
+permalink:        pretty
+
+# Setup
+title:            Dan Worth
+tagline:          'How hard could it be?'
+description:      'Welcome to my site.  Follow me on twitter <a href="https://twitter.com/djworth">@djworth</a>'
+url:              http://www.danworth.com
+
+author:
+  name:           'Dan Worth'
+  url:            https://twitter.com/djworth
+
+paginate:         5
+
+# Custom vars
+version:          0.1
+
+github:
+  repo:           https://github.com/djworth/djworth.github.io
+  profile:		  https://github.com/djworth
