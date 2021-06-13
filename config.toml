@@ -1,4 +1,4 @@
-baseURL = "http://danworth.com/"
+baseURL = "https://danworth.com/"
 languageCode = "en"
 DefaultContentLanguage = "en"
 enableInlineShortcodes = true
