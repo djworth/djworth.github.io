@@ -1,7 +1,7 @@
 ---
 title: "About"
 date: 2021-06-12T18:45:26-04:00
-draft: true
+draft: false
 author: Dan Worth
 
 description: This is my about page 

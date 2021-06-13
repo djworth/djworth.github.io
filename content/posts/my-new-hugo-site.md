@@ -1,7 +1,7 @@
 ---
 title: "My New Hugo Site"
 date: 2021-06-12T18:37:10-04:00
-draft: true
+draft: false
 ---
 
 ## Hello World
