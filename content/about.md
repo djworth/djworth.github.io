@@ -3,17 +3,30 @@ title: "About"
 date: 2021-06-12T18:45:26-04:00
 draft: false
 author: Dan Worth
-
-description: This is my about page 
+description: About Dan Worth
 categories: [about]
 tags: [about]
 ---
 
-## Who Am I?
+## About Me
 
-I'm a Dad to two wonderful kids trying to figure out the world of middle school.  I'm a Husband to my high school sweetheart :heart:.  We have two American Bulldogs
- **Brutus** and **Ada**.  Both dogs are rescues **Brutus** is more of a traditional rescue where we adopted him from the [American Bulldog Rescue](https://americanbulldogrescue.org/) he was 1.5 years old when we adopted him.  Now **Ada** (named after the cryptocurrency [Ada](https://cardano.org/what-is-ada/) on the [Cardano network](http://cardano.org)) we "rescued" her because the person that bought her could no longer keep Ada in their apartment.
+I'm Dan Worth — a software engineer, dad, and husband based in the US.
 
-## What Do I Do?
+## Interests
 
-For a living I'm currently a **Principal Software Engineer @ Nike Inc**.  Working with a wonderful team having fun with Golang, Kubernetes and GCP.
+- Crypto — trading bots, Base, onchain mechanics
+- AI — agents, autonomous systems, the Internet of AI Agents
+- Amateur wrestling
+- Go (the programming language, not the board game)
+- Rust
+- Python
+
+## Professional
+
+For the professional stuff, find me on [LinkedIn](https://linkedin.com/in/djworth).
+
+## Elsewhere
+
+- [GitHub](https://github.com/djworth)
+- [X](https://x.com/djworth)
+- [LinkedIn](https://linkedin.com/in/djworth)
