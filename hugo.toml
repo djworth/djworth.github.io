@@ -1,0 +1,67 @@
+baseURL = "https://danworth.com/"
+languageCode = "en"
+title = "djworth"
+theme = "PaperMod"
+
+enableInlineShortcodes = true
+enableEmoji = true
+
+[params]
+  env = "production"
+  description = "Dan Worth - Software Engineer"
+  author = "Dan Worth"
+  ShowReadingTime = true
+  ShowShareButtons = false
+  ShowPostNavLinks = true
+  ShowBreadCrumbs = true
+  ShowCodeCopyButtons = true
+
+  [params.homeInfoParams]
+    Title = "Dan Worth"
+    Content = "always make it happen"
+
+  [[params.socialIcons]]
+    name = "github"
+    url = "https://github.com/djworth"
+
+  [[params.socialIcons]]
+    name = "x"
+    url = "https://x.com/djworth"
+
+  [[params.socialIcons]]
+    name = "rss"
+    url = "index.xml"
+
+[menu]
+  [[menu.main]]
+    name = "Home"
+    url = "/"
+    weight = 1
+  [[menu.main]]
+    name = "Projects"
+    url = "/projects/"
+    weight = 2
+  [[menu.main]]
+    name = "About"
+    url = "/about/"
+    weight = 3
+  [[menu.main]]
+    name = "Search"
+    url = "/search/"
+    weight = 4
+
+[taxonomies]
+  category = "categories"
+  tag = "tags"
+
+[markup]
+  [markup.highlight]
+    codeFences = true
+    guessSyntax = false
+    lineNos = false
+    noClasses = true
+    style = "monokai"
+    tabWidth = 4
+
+[outputs]
+  home = ["HTML", "RSS", "JSON"]
