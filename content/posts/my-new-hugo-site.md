@@ -2,6 +2,8 @@
 title: "My New Hugo Site"
 date: 2021-06-12T18:37:10-04:00
 draft: false
+tags: ["hugo", "blogging"]
+categories: ["meta"]
 ---
 
 ## Hello World
