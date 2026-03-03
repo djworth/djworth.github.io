@@ -28,7 +28,7 @@ Watching your kid walk off the mat after a loss like that is hard in a way that'
 
 Here's where I have to just step back and say: I don't know where he found it.
 
-After that loss, he had to turn around and wrestle the consolation bracket with a shot at third place — and a state qualifier spot — still on the line. The margin between going home and going to Hershey was two more wins. After losing to a good friend. As a freshman.
+After that loss, he had to turn around and wrestle the consolation bracket with a shot at third place — and a state qualifier spot — still on the line. The margin between going home and going to Hershey was four more wins. After losing to a good friend. As a freshman.
 
 He dug deep. That's the only way to say it. Match by match, he wrestled his way back through the consolation bracket with a focus I didn't expect from a kid who'd just had his heart handed to him in the quarterfinals. Every time I thought he might fold, he didn't.
 
