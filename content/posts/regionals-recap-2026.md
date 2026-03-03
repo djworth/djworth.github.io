@@ -1,6 +1,6 @@
 ---
 title: "He's Going to Hershey"
-date: 2026-03-03T12:00:00-05:00
+date: 2026-03-02T12:00:00-05:00
 draft: false
 author: Dan Worth
 description: "Regionals was an emotional wrecking ball. My son lost to a good friend, dug deep, fought all the way back, and punched his ticket to the PIAA State Championships."
