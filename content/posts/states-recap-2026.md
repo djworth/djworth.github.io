@@ -1,6 +1,6 @@
 ---
 title: "Hershey Was Just the Beginning"
-date: 2026-03-09T09:00:00-05:00
+date: 2026-03-08T09:00:00-05:00
 draft: false
 author: Dan Worth
 description: "My son's first PIAA state tournament is in the books. He didn't place, but he left the GIANT Center with something more valuable — a fire."
